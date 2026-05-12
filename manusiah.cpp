@@ -18,4 +18,3 @@ public:
         cout << name << " mati\n";
     }
 };
-#endif
